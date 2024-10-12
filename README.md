@@ -1,13 +1,4 @@
-# MegaMedusa Layer-7 DDoS Tool v3.1
- ![Screenshot_1](photo_2024-04-24_02-06-49.jpg)
- 
- ### Security that MegaMedusa can bypass :
-- UAM Challenges Bypass ✅
-- Cloudflare NoSec ✅
-- DDoS Guard Bypass ✅
-- vShield Website Bypass ✅
-- ShieldSquare Captcha Bypass ✅
-  
+
  ### Update v3.1 :
 - Lagging Fixed & More Compatible
 - More power & bypasses
